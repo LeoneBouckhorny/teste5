@@ -1,0 +1,34 @@
+body {
+    background-image: url('https://topsuporte.com.br/wp-content/uploads/2016/09/fundocontador.jpg'); 
+    background-size: 300vh
+    font-family : arial;
+  }
+  .menu{
+    background-color:#084B8A;
+  }
+  .menu ul {
+    display:flex;
+    justify-content: space-around;;
+  }
+  .menu li {
+    list-style:none;
+  }
+  a{
+    color:#FFFFFF;
+   text-decoration:none;
+  }
+  a:have{
+    text-decoration:underline;
+  }
+  .menu li {
+    list-style:none;
+  }
+  .site-title{
+    text-align:center;
+    color:#0404B4;
+  }
+  .site-subtitle{
+    text-align:center;
+    color:#0000FF;
+   
+  }
